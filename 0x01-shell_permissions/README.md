@@ -1,1 +1,1 @@
-This is 0x01-shell_permissions
+A script that prints the effective username of the current user
